@@ -1,0 +1,13 @@
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\bin\Debug\SQL_FUTSCORE.exe.config
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\bin\Debug\SQL_FUTSCORE.exe
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\bin\Debug\SQL_FUTSCORE.pdb
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.csproj.AssemblyReference.cache
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.Properties.Resources.resources
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.csproj.GenerateResource.cache
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.csproj.CoreCompileInputs.cache
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.exe
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.pdb
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.Frm_Login.resources
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.Presentacion.Frm_Register.resources
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.Presentacion.Frm_Principal.resources
+D:\Programacion\C# y SQL\SQL_FUTSCORE\SQL_FUTSCORE\obj\Debug\SQL_FUTSCORE.Presentacion.Frm_Players.resources

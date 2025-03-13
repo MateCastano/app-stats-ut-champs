@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\sql_futscore\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|d:\\programacion\\c# y sql\\sql_futscore\\sql_futscore\\presentacion\\frm_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\presentacion\\frm_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\sql_futscore\\presentacion\\frm_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\presentacion\\frm_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\sql_futscore\\datos\\d_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\datos\\d_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\sql_futscore\\datos\\d_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\datos\\d_players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\sql_futscore\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47361643-FB83-4639-AD23-94A6863B80A4}|SQL_FUTSCORE\\SQL_FUTSCORE.csproj|solutionrelative:sql_futscore\\presentacion\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:59:07.611Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Principal.cs",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "RelativeToolTip": "SQL_FUTSCORE\\Presentacion\\Frm_Principal.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAADwv8EAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:34:55.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Players.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Players.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SQL_FUTSCORE\\Presentacion\\Frm_Players.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:55:27.33Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Players.cs",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "RelativeToolTip": "SQL_FUTSCORE\\Presentacion\\Frm_Players.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv44AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:34:05.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_Record.cs",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Datos\\D_Record.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Datos\\D_Record.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Datos\\D_Record.cs",
+              "RelativeToolTip": "SQL_FUTSCORE\\Datos\\D_Record.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:35:48.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D_Players.cs",
+              "DocumentMoniker": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Datos\\D_Players.cs",
+              "RelativeDocumentMoniker": "SQL_FUTSCORE\\Datos\\D_Players.cs",
+              "ToolTip": "D:\\Programacion\\C# y SQL\\SQL_FUTSCORE\\SQL_FUTSCORE\\Datos\\D_Players.cs",
+              "RelativeToolTip": "SQL_FUTSCORE\\Datos\\D_Players.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:47:03.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
