@@ -18,9 +18,9 @@ namespace ProcesoCRUD.Datos
         private CConexion()
         {
             this.Base = "BD_FUTSCORE";
-            this.Servidor = "DESKTOP-NM4M47C\\SQLEXPRESS";
-            this.Usuario = "user_mc";
-            this.Clave = "hola123";
+            this.Servidor = "****";
+            this.Usuario = "****";
+            this.Clave = "****";
         }
 
         public SqlConnection CrearConexion()
